@@ -1,5 +1,4 @@
-export const tweetsData = [
-  const tweetsData = [   
+export const tweetsData = [ 
     {
         handle: `@bitcoinbro 💎`,
         profilePic: `https://github.com/cameroncrobinson/x-ui-clone/blob/main/images/bitcoin-bro.webp?raw=true`,
